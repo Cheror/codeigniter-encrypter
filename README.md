@@ -1,4 +1,4 @@
-# codeigniter-encode-library Encrypter
+# Codeigniter-encrypter-library
 Working string encoding library for codeigniter. Pure PHP code.<br/>
 This enables you to encrypt and decrypt strings,encode and decode (base64encode).<br/>
 Installation<br/><br/>
