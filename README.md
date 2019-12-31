@@ -5,9 +5,9 @@ Installation<br/><br/>
 use composer to install or download and place the extrated directry application/libraries/....<br/>
 Autoload the library.<br/>
 
-generate a unique key and edit secret_key="your-unique-key-maybe-md5";
-Encrypt string: $this->encrypter->encrypt_decryt('encrypt',$string-to-encrypt);
-Decrypt String: $this->encrypter->encrypt_decryt('decrypt',$encodedstring)
+generate a unique key and edit secret_key="your-unique-key-maybe-md5";<br/>
+Encrypt string: $this->encrypter->encrypt_decryt('encrypt',$string-to-encrypt);<br/>
+Decrypt String: $this->encrypter->encrypt_decryt('decrypt',$encodedstring);<br/>
 Encode: $this->encrypter->encode($strin-to-encrypt);<br/>
 Encode: $this->encrypter->decode($encodedstring);<br/>
 
